@@ -1,2 +1,1 @@
-# lomba-smkinsanmandiri
-# lomba-smkinsanmandiri
+# smkinsanmandiri-lomba
