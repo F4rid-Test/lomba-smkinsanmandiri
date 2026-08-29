@@ -1,1 +1,0 @@
-# smkinsanmandiri-lomba

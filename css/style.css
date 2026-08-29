@@ -322,6 +322,12 @@ hr {
   margin-bottom: 20px;
 }
 
+#spmb .poster {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+
 #spmb .poster img {
   max-width: 100%;
   height: auto;
@@ -440,6 +446,9 @@ hr {
   color: var(--kuning);
 }
 
+#spmb .formulir {
+  margin: 10px;
+}
 
 
 
